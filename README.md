@@ -1,0 +1,2 @@
+This repository is where my progress in learning the sql basics, intermediate and advanced lessons from the data analytics bootcamp by Alex The Analyst on YT.
+All of my self-created sql files (not ai generated) goes here. Also the files contains not just sql codes/query, it contains my understanding per lesson which are the comments. I wrote all of those myself using what I understood as the basis.
